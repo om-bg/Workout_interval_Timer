@@ -1,4 +1,4 @@
-# Workout_interval_Timer(Interface Tkinter)
+# Workout_interval_Timer (Interface Tkinter)
 
 Une application Python avec interface graphique `tkinter` qui permet de créer des séances d'entraînement personnalisées en définissant :
 
