@@ -151,11 +151,4 @@ newfenetre.after(1000,test)
 # newfenetre.after(2000, test)
 newfenetre.mainloop()
 
-# if idx > len(series) - 1:
-#     j = int(timee[0].get()) + 1
-#     for ii in range(j):
-#         x = j - ii
-#         lb2.configure(f"Repos de {x} secondes avant Serie suivant.")
-#         newfenetre.update()
-#         time.sleep(1)
 
