@@ -30,9 +30,12 @@ Une application Python avec interface graphique `tkinter` qui permet de créer d
 ### 2. Cloner le projet
 
 ```bash
-git clone https://github.com/om-bg/workout-interval-timer.git
-cd workout-interval-timer ```
+git clone https://github.com/om-bg/Workout_interval_Timer.git
+cd workout-interval-timer 
+```
 
 ### 3. Lancer l'application
 ```bash
 python main.py
+```
+
